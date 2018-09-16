@@ -61,7 +61,7 @@ function animate(){
     planet_9_planet_111.rotation.y += angle;
     planet_9_planet_112.rotation.y += angle;
     planet_10.rotation.y += angle;
-    planet_11_a.rotation.y += angle;
+    // planet_11_a.rotation.y += angle;
 
 }
 
